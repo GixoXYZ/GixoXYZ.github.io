@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Art Portfolio on Gixo</title>
-    <link>https://thegixo.github.io/art_portfolio/</link>
+    <link>https://notgixo.github.io/art_portfolio/</link>
     <description>Recent content in Art Portfolio on Gixo</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://thegixo.github.io/art_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://notgixo.github.io/art_portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ubuntu Lunar Lobster Wallpaper</title>
-      <link>https://thegixo.github.io/art_portfolio/lunar_lobster/</link>
+      <link>https://notgixo.github.io/art_portfolio/lunar_lobster/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://thegixo.github.io/art_portfolio/lunar_lobster/</guid>
+      <guid>https://notgixo.github.io/art_portfolio/lunar_lobster/</guid>
       <description></description>
     </item>
     
